@@ -95,7 +95,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: redHouse11_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc277a4188f11a47af34351a53c49e2
+      internalID: -1647424317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d32bd8cf0c4adc48bf4fd715688a971
+      internalID: -1763119886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ef16647d255f49a18eb5aa3298847
+      internalID: -53022527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd1c3722553ead4989cf6482d2599d1
+      internalID: -1089745488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511c7581a9e95d4ab7b8445b2468311
+      internalID: -993401579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7811573c12476db488edb6e478ff810d
+      internalID: -884342027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e873a8ebf908304d91b097133864267
+      internalID: -15380752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redHouse11_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548831fa513b57740a73eaccb579f70e
+      internalID: -235982577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +274,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      redHouse11_0: -1647424317
+      redHouse11_1: -1763119886
+      redHouse11_2: -53022527
+      redHouse11_3: -1089745488
+      redHouse11_4: -993401579
+      redHouse11_5: -884342027
+      redHouse11_6: -15380752
+      redHouse11_7: -235982577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

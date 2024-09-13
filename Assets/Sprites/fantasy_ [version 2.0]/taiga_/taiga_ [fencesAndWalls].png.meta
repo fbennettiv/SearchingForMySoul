@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,721 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0ec15a0db23bc4f8f9e2ca964de78e
+      internalID: 1762141213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead1d1f2935f8b4c86e075bb339ed5f
+      internalID: 912032335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f893930c6663e449a0b5f96ade6bd6c
+      internalID: 1779368755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba78d6c6fe4f724f8922781173e8c70
+      internalID: 209478121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35200c1e060625f4794d69d6117bc5ab
+      internalID: 991134429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535a560c4df13149a40fc1cc64ee1d3
+      internalID: 506454957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e40e81a2af2b4c859915694317c35
+      internalID: 1943580017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592d9e2fbfd59f4ebead88760ebd140
+      internalID: -878417487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195a74abbc8d0d48be7ec2d63b83a34
+      internalID: 866211490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10daafc72cd35b49b68e38d8003ff3e
+      internalID: -552826592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e8b8abbb674f459cb71748e402a43
+      internalID: -339935283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d28ccd0ef39564dbe6b315fc85c3e5
+      internalID: 1048583402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 132
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5957c04d9ec3a9d4083000c59c236e3a
+      internalID: -684170511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 156
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568bdd2c81f3ff45a5e8e3aaa4651d6
+      internalID: 724936262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 143
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f941a104e3a2ff74cba34f6a71380414
+      internalID: 1223387878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7945e298c31de4fa72c10aa2f9df69
+      internalID: -1131091634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0325e5cebedae46a69e00f15a99f01
+      internalID: -767275308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 118
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e92c95c5f6c4e4590455d7fc49d2ea
+      internalID: 1484837532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f9b774152452a4ab088e9509b4389c
+      internalID: 1484265772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 116
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51839bb35822cf644aae27fee35f9c0a
+      internalID: 1898865182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 116
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d1a1df37d1fb45bbd0300148896f6
+      internalID: -1009082026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8a85c4c6d8b9c489a2b4f705b0a771
+      internalID: -330824007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5812123e1575148b4bd0a68477c9c9
+      internalID: 540261846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e45acfe36e677a4593b116baaad32ef
+      internalID: -1218997076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9014b34e3c78445bd67d1be2531a6f
+      internalID: 1536865736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b015d5ef445014f90ac3c023e6a052
+      internalID: -1778015353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d917a6c62409ce4cb64a2ed78fdd303
+      internalID: -35687769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04a632a2cc329d4badbf7e1432fa282
+      internalID: -826594450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa06022847f8a94c97e58cd948f0c82
+      internalID: -143987800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204012618170274a8dc737380773e8c
+      internalID: -1152559126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 51
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ad90626f354e40943c7c72c4628d5
+      internalID: -1217731267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 35
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29540e479f326ae4c85918e81e5b3fd3
+      internalID: -726808226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7873bd5b745d489e347306f9aba6a
+      internalID: 1419705547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taiga_ [fencesAndWalls]_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d1ddcdd9a6fa48860a02c40b6d11d
+      internalID: -1618388659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +820,41 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      taiga_ [fencesAndWalls]_0: 1762141213
+      taiga_ [fencesAndWalls]_1: 912032335
+      taiga_ [fencesAndWalls]_10: -339935283
+      taiga_ [fencesAndWalls]_11: 1048583402
+      taiga_ [fencesAndWalls]_12: -684170511
+      taiga_ [fencesAndWalls]_13: 724936262
+      taiga_ [fencesAndWalls]_14: 1223387878
+      taiga_ [fencesAndWalls]_15: -1131091634
+      taiga_ [fencesAndWalls]_16: -767275308
+      taiga_ [fencesAndWalls]_17: 1484837532
+      taiga_ [fencesAndWalls]_18: 1484265772
+      taiga_ [fencesAndWalls]_19: 1898865182
+      taiga_ [fencesAndWalls]_2: 1779368755
+      taiga_ [fencesAndWalls]_20: -1009082026
+      taiga_ [fencesAndWalls]_21: -330824007
+      taiga_ [fencesAndWalls]_22: 540261846
+      taiga_ [fencesAndWalls]_23: -1218997076
+      taiga_ [fencesAndWalls]_24: 1536865736
+      taiga_ [fencesAndWalls]_25: -1778015353
+      taiga_ [fencesAndWalls]_26: -35687769
+      taiga_ [fencesAndWalls]_27: -826594450
+      taiga_ [fencesAndWalls]_28: -143987800
+      taiga_ [fencesAndWalls]_29: -1152559126
+      taiga_ [fencesAndWalls]_3: 209478121
+      taiga_ [fencesAndWalls]_30: -1217731267
+      taiga_ [fencesAndWalls]_31: -726808226
+      taiga_ [fencesAndWalls]_32: 1419705547
+      taiga_ [fencesAndWalls]_33: -1618388659
+      taiga_ [fencesAndWalls]_4: 991134429
+      taiga_ [fencesAndWalls]_5: 506454957
+      taiga_ [fencesAndWalls]_6: 1943580017
+      taiga_ [fencesAndWalls]_7: -878417487
+      taiga_ [fencesAndWalls]_8: 866211490
+      taiga_ [fencesAndWalls]_9: -552826592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

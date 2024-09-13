@@ -95,7 +95,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: greenHouse10_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e893666abf1d8a42b36aaad68750525
+      internalID: 1368972876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e3fe0d4a0ed604ca6f2154f367e43b
+      internalID: -1069113208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e78b30f5d3dc42b39ff6d46a7e680
+      internalID: 11605819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 129
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2dc327ebd507c43bc9925a1f467a4a
+      internalID: 1981578348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec106b22f729eb44099f79c92cab3108
+      internalID: 1773274211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ab3cc6cfc64c642a72330c16ae518d
+      internalID: -2145123282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96671332f6985c145aef6283ecd21a4f
+      internalID: 238399909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenHouse10_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8c46b23e47c34db4e9f00b24434d4
+      internalID: 512768474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +274,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      greenHouse10_0: 1368972876
+      greenHouse10_1: -1069113208
+      greenHouse10_2: 11605819
+      greenHouse10_3: 1981578348
+      greenHouse10_4: 1773274211
+      greenHouse10_5: -2145123282
+      greenHouse10_6: 238399909
+      greenHouse10_7: 512768474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
