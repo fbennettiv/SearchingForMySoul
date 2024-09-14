@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_0
+      name: fence_cornerTL
       rect:
         serializedVersion: 2
         x: 18
@@ -118,7 +118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_1
+      name: fence_3cornerT
       rect:
         serializedVersion: 2
         x: 32
@@ -139,7 +139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_2
+      name: fence_cornerTR
       rect:
         serializedVersion: 2
         x: 46
@@ -160,7 +160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_3
+      name: fence_3cornerR
       rect:
         serializedVersion: 2
         x: 46
@@ -181,7 +181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_4
+      name: fence_4cornerC
       rect:
         serializedVersion: 2
         x: 32
@@ -202,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_5
+      name: fence_3cornerL
       rect:
         serializedVersion: 2
         x: 18
@@ -223,7 +223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_6
+      name: fence_cornerBL
       rect:
         serializedVersion: 2
         x: 18
@@ -244,7 +244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_7
+      name: fence_cornerBR
       rect:
         serializedVersion: 2
         x: 46
@@ -265,7 +265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_8
+      name: fence_3cornerB
       rect:
         serializedVersion: 2
         x: 32
@@ -286,7 +286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_9
+      name: fence_verticalT
       rect:
         serializedVersion: 2
         x: 64
@@ -307,7 +307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_10
+      name: fence_verticalC
       rect:
         serializedVersion: 2
         x: 64
@@ -328,7 +328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_11
+      name: fence_verticalB
       rect:
         serializedVersion: 2
         x: 64
@@ -349,7 +349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_12
+      name: overhang_woodB
       rect:
         serializedVersion: 2
         x: 82
@@ -370,7 +370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_13
+      name: overhang_woodT
       rect:
         serializedVersion: 2
         x: 82
@@ -391,7 +391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_14
+      name: signpost_woodR1
       rect:
         serializedVersion: 2
         x: 131
@@ -412,7 +412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_15
+      name: signpost_woodR2
       rect:
         serializedVersion: 2
         x: 143
@@ -433,7 +433,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_16
+      name: signpost_woodL1
       rect:
         serializedVersion: 2
         x: 145
@@ -454,7 +454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_17
+      name: signpost_woodL2
       rect:
         serializedVersion: 2
         x: 130
@@ -475,7 +475,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_18
+      name: fence_solo
       rect:
         serializedVersion: 2
         x: 65
@@ -496,11 +496,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_19
+      name: fence_horizontalC
       rect:
         serializedVersion: 2
         x: 32
-        y: 116
+        y: 115
         width: 16
         height: 14
       alignment: 0
@@ -517,11 +517,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_20
+      name: fence_horizontalR
       rect:
         serializedVersion: 2
         x: 45
-        y: 116
+        y: 115
         width: 16
         height: 14
       alignment: 0
@@ -538,11 +538,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_21
+      name: fence_horizontalL
       rect:
         serializedVersion: 2
         x: 19
-        y: 116
+        y: 115
         width: 16
         height: 14
       alignment: 0
@@ -559,7 +559,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_22
+      name: overhangFenceConnector_woodL
       rect:
         serializedVersion: 2
         x: 80
@@ -580,7 +580,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_23
+      name: overhangFenceConnected_woodR
       rect:
         serializedVersion: 2
         x: 114
@@ -601,7 +601,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_24
+      name: wall_single
       rect:
         serializedVersion: 2
         x: 16
@@ -609,7 +609,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -622,7 +622,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_25
+      name: wall_horizontalL2
       rect:
         serializedVersion: 2
         x: 34
@@ -630,7 +630,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -643,7 +643,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_26
+      name: wall_horizontal1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -651,7 +651,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -664,7 +664,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_27
+      name: wall_horizontalR2
       rect:
         serializedVersion: 2
         x: 63
@@ -672,7 +672,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -685,15 +685,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_28
+      name: overhang_stone1
       rect:
         serializedVersion: 2
-        x: 127
+        x: 128
         y: 35
         width: 14
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -706,15 +706,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_29
+      name: overhang_stone3
       rect:
         serializedVersion: 2
-        x: 163
+        x: 162
         y: 35
         width: 14
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -727,15 +727,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_30
+      name: overhang_stone2
       rect:
         serializedVersion: 2
-        x: 141
+        x: 142
         y: 51
-        width: 22
+        width: 20
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -748,15 +748,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_31
+      name: overhang_stone4
       rect:
         serializedVersion: 2
-        x: 177
+        x: 176
         y: 35
-        width: 14
-        height: 30
+        width: 15
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -769,7 +769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_32
+      name: overhang_stone6
       rect:
         serializedVersion: 2
         x: 210
@@ -777,7 +777,7 @@ TextureImporter:
         width: 14
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -790,15 +790,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: taiga_ [fencesAndWalls]_33
+      name: overhang_stone5
       rect:
         serializedVersion: 2
-        x: 204
+        x: 191
         y: 54
-        width: 6
+        width: 19
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -806,6 +806,699 @@ TextureImporter:
       bones: []
       spriteID: 4b0d1ddcdd9a6fa48860a02c40b6d11d
       internalID: -1618388659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_horizontalL
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7179cf14efb4246be7e628af594be1
+      internalID: -1921337363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_horizontalC1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99df48f039be594ab8c39910db30027
+      internalID: -1308276208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_horizontalC2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ca103be731154186d18e5ffddf687
+      internalID: -1029343690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_horizontalC3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce102c2d57083408b8b428685ef749
+      internalID: 99855091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_horizontalR
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 83
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014965944ff3474b8b07b2d9403a6fd
+      internalID: 494354620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_verticalB
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5619279d5a83cbc4bb5a2e6a35dde238
+      internalID: 594413200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_verticalC3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c7e0ba4d9f4e43b6725ae09e04b0d
+      internalID: -2133194146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_verticalC4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29bff3126366694bbac35dba204285e
+      internalID: 444144405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_piece1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca99060307607c4dba0b2da4e0b482a
+      internalID: -1614246461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashcan
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c57591faf6f850428a233264bc82337
+      internalID: 756183947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_piece2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48b8f7a0d956cc4bb46f9e895a93072
+      internalID: 2106956741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_piece3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df5ced560e9e07439a0755649df8c03
+      internalID: -1896001360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_verticalC1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48eeaffdf9825439bbb79e711def0d
+      internalID: -594874565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_verticalC2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed628a5e840cec746a290a9777440b36
+      internalID: -1361309273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cornerBL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85854041ee41a642849272c41123de5
+      internalID: -1775033290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_3cornerB
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11d3bf121e526444b9fa3ab79999f31
+      internalID: -1508118520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cornerBR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7f7d11e8f30c4fac66216d1a4709a
+      internalID: -1109798734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_4cornerC
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c635a538083e48b750927f7879297
+      internalID: -1216770479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_3cornerL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa24f4075f7d8e5419d3a9520e198a86
+      internalID: 102514595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_3cornerR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd914eb78a2c7442b252e19ac338c3f
+      internalID: 1378163047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cornerTL
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53b1efa35f9fc469bcd8e9c8ec8d9e
+      internalID: 1365774948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_3cornerT
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcadf97cbcf3314380c03be5b974211
+      internalID: 100443809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cornerTR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0a1e6fd670b243ac6dddeb5d1110f
+      internalID: -1654012839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2woodVT_cornerTL
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8007ac58b0feeb94791bc530374fecc6
+      internalID: 1769599395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2woodVC_3cornerT
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddecf51af468be34d880ad6bf6baa9a4
+      internalID: 892233912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2woodVC_3cornerR
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12794ad267ca84cb20635c6d1fb42b
+      internalID: -1775824954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2woodVC
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b384b4960c5084fafcb2e4627ba19b
+      internalID: -1183114960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood2stoneVB_cornerBL
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 115
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9199466359668f24fbe8148bef0ade2e
+      internalID: 917905053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood2stoneVB_cornerBR
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 115
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e3dd4e7bf5ef47ab185ae090c0232
+      internalID: -2141383429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2woodHC2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 115
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37001bf0fa59d6848986cfa438ab311a
+      internalID: 1337150851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood2stoneHC2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 115
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3443a175a590042a70a9a055e805ed
+      internalID: 712907276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood2stoneHC
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 162
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f945187315e4459185f41b75b59e9
+      internalID: -211235004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone2woodHC
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceac0856adf3649489e85753cf6953cc
+      internalID: -1451656190
       vertices: []
       indices: 
       edges: []
@@ -821,40 +1514,76 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      taiga_ [fencesAndWalls]_0: 1762141213
-      taiga_ [fencesAndWalls]_1: 912032335
-      taiga_ [fencesAndWalls]_10: -339935283
-      taiga_ [fencesAndWalls]_11: 1048583402
-      taiga_ [fencesAndWalls]_12: -684170511
-      taiga_ [fencesAndWalls]_13: 724936262
-      taiga_ [fencesAndWalls]_14: 1223387878
-      taiga_ [fencesAndWalls]_15: -1131091634
-      taiga_ [fencesAndWalls]_16: -767275308
-      taiga_ [fencesAndWalls]_17: 1484837532
-      taiga_ [fencesAndWalls]_18: 1484265772
-      taiga_ [fencesAndWalls]_19: 1898865182
-      taiga_ [fencesAndWalls]_2: 1779368755
-      taiga_ [fencesAndWalls]_20: -1009082026
-      taiga_ [fencesAndWalls]_21: -330824007
-      taiga_ [fencesAndWalls]_22: 540261846
-      taiga_ [fencesAndWalls]_23: -1218997076
-      taiga_ [fencesAndWalls]_24: 1536865736
-      taiga_ [fencesAndWalls]_25: -1778015353
-      taiga_ [fencesAndWalls]_26: -35687769
-      taiga_ [fencesAndWalls]_27: -826594450
-      taiga_ [fencesAndWalls]_28: -143987800
-      taiga_ [fencesAndWalls]_29: -1152559126
-      taiga_ [fencesAndWalls]_3: 209478121
-      taiga_ [fencesAndWalls]_30: -1217731267
-      taiga_ [fencesAndWalls]_31: -726808226
-      taiga_ [fencesAndWalls]_32: 1419705547
-      taiga_ [fencesAndWalls]_33: -1618388659
-      taiga_ [fencesAndWalls]_4: 991134429
-      taiga_ [fencesAndWalls]_5: 506454957
-      taiga_ [fencesAndWalls]_6: 1943580017
-      taiga_ [fencesAndWalls]_7: -878417487
-      taiga_ [fencesAndWalls]_8: 866211490
-      taiga_ [fencesAndWalls]_9: -552826592
+      fence_3cornerB: 866211490
+      fence_3cornerL: 506454957
+      fence_3cornerR: 209478121
+      fence_3cornerT: 912032335
+      fence_4cornerC: 991134429
+      fence_cornerBL: 1943580017
+      fence_cornerBR: -878417487
+      fence_cornerTL: 1762141213
+      fence_cornerTR: 1779368755
+      fence_horizontalC: 1898865182
+      fence_horizontalL: -330824007
+      fence_horizontalR: -1009082026
+      fence_solo: 1484265772
+      fence_verticalB: 1048583402
+      fence_verticalC: -339935283
+      fence_verticalT: -552826592
+      overhangFenceConnected_woodR: -1218997076
+      overhangFenceConnector_woodL: 540261846
+      overhang_stone1: -143987800
+      overhang_stone2: -1217731267
+      overhang_stone3: -1152559126
+      overhang_stone4: -726808226
+      overhang_stone5: -1618388659
+      overhang_stone6: 1419705547
+      overhang_woodB: -684170511
+      overhang_woodT: 724936262
+      signpost_woodL1: -767275308
+      signpost_woodL2: 1484837532
+      signpost_woodR1: 1223387878
+      signpost_woodR2: -1131091634
+      stone2woodHC: -1451656190
+      stone2woodHC2: 1337150851
+      stone2woodVC: -1183114960
+      stone2woodVC_3cornerR: -1775824954
+      stone2woodVC_3cornerT: 892233912
+      stone2woodVT_cornerTL: 1769599395
+      taiga_ [fencesAndWalls]_0: 1428919629
+      taiga_ [fencesAndWalls]_60: -305785862
+      taiga_ [fencesAndWalls]_61: 740234761
+      trashcan: 756183947
+      wall_3cornerB: -1508118520
+      wall_3cornerL: 102514595
+      wall_3cornerR: 1378163047
+      wall_3cornerT: 100443809
+      wall_4cornerC: -1216770479
+      wall_cornerBL: -1775033290
+      wall_cornerBR: -1109798734
+      wall_cornerTL: 1365774948
+      wall_cornerTR: -1654012839
+      wall_horizontal1_2: -35687769
+      wall_horizontalC1: -1308276208
+      wall_horizontalC2: -1029343690
+      wall_horizontalC3: 99855091
+      wall_horizontalL: -1921337363
+      wall_horizontalL2: -1778015353
+      wall_horizontalR: 494354620
+      wall_horizontalR2: -826594450
+      wall_piece1: -1614246461
+      wall_piece2: 2106956741
+      wall_piece3: -1896001360
+      wall_single: 1536865736
+      wall_verticalB: 594413200
+      wall_verticalC1: -594874565
+      wall_verticalC2: -1361309273
+      wall_verticalC3: -2133194146
+      wall_verticalC4: 444144405
+      wood2stoneHC: -211235004
+      wood2stoneHC2: 712907276
+      wood2stoneVB_cornerBL: 917905053
+      wood2stoneVB_cornerBR: -2141383429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

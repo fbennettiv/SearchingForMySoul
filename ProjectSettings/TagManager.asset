@@ -14,9 +14,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Structure
   - 
   - 
   - 
@@ -40,4 +40,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1300418351
+    locked: 0
+  - name: BehindEverythingObjects
+    uniqueID: 2188273491
+    locked: 0
+  - name: Houses
+    uniqueID: 1004753237
+    locked: 0
+  - name: BackgroundObjects
+    uniqueID: 2098054665
+    locked: 0
+  - name: Sprites
+    uniqueID: 3792779449
+    locked: 0
+  - name: ForegroundObjects
+    uniqueID: 3515038365
     locked: 0
