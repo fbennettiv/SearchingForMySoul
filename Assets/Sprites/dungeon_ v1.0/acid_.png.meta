@@ -95,7 +95,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: acid__0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 54
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78db8e1ee6210469af21e769866daa
+      internalID: -1935793184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb74d7a18a30efe45b959f759f9282ee
+      internalID: 585831963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 54
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b5e449b720e5d429fb0fe08d50a169
+      internalID: 496058390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 54
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1caf104d4c8ba24c98dc4b72bca8f0a
+      internalID: 1760848079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27df97334eb6c40a6539d0d98179d4
+      internalID: -966173566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 24
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5b01915071534fa559f1ed62c8497
+      internalID: -166464853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38182749e3dc604a829138d727d7bb1
+      internalID: -403883694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acid__7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 24
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024a80bb5a3e324d8c46d813dbe25b2
+      internalID: -1578157051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +274,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      acid__0: -1935793184
+      acid__1: 585831963
+      acid__2: 496058390
+      acid__3: 1760848079
+      acid__4: -966173566
+      acid__5: -166464853
+      acid__6: -403883694
+      acid__7: -1578157051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
