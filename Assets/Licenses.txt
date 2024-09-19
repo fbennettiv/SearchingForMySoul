@@ -1,0 +1,87 @@
+Asset Name: forestVillage_
+Asset Type: Game Art
+Author: analogStudios_
+License: CC-0 (Creative Commons 0)
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 16:05
+Link: https://analogstudios.itch.io/village
+Price: Free
+------------------------------------------
+
+Asset Name: playerSprites_
+Asset Type: Player Sprites
+Author: analogStudios_
+License: CC-0 (Creative Commons 0)
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 16:15
+Link: https://analogstudios.itch.io/playersprites
+Price: Free
+------------------------------------------
+
+Asset Name: FREE MUSIC Light 10 spooky 8bit tracks with MP3 beats
+Asset Type: Music
+Author: RUSTED MUSIC STUDIO Music & Assets
+License: Creative Commons Attribution v4.0 International
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 16:22
+Link: https://rustedstudio.itch.io/free-music-10-spooky
+Price: Free
+------------------------------------------
+
+Asset Name: Pixel RPG Music
+Asset Type: Music
+Author: alkakrab
+License: "Absolutely Free For Commercial use" - alkakrab
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 16:26
+Link: https://alkakrab.itch.io/free-12-tracks-pixel-rpg-game-music-pack
+Price: Free
+------------------------------------------
+
+Asset Name: dungeon_
+Asset Type: Game Art
+Author: analogStudios_
+License: CC-0 (Creative Commons 0)
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 16:43
+Link: https://analogstudios.itch.io/dungeon
+Price: Free
+------------------------------------------
+
+Asset Name: dungeonSprites_
+Asset Type: Game Art
+Author: analogStudios_
+License: CC-0 (Creative Commons 0)
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 16:49
+Link: https://analogstudios.itch.io/dungeonsprites
+Price: Free
+------------------------------------------
+
+Asset Name: fantasy_
+Asset Type: Game Art
+Author: analogStudios_
+License: CC-0 (Creative Commons 0)
+Project Name: Searching For My Soul
+Download Date: 09/11/2024
+Download Time: 17:10
+Link: https://analogstudios.itch.io/fantasy
+Price: Free
+------------------------------------------
+
+Asset Name:
+Asset Type:
+Author:
+License:
+Project Name:
+Download Date:
+Download Time:
+Link:
+Price:
+------------------------------------------
