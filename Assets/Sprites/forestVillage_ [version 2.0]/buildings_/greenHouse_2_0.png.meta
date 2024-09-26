@@ -100,7 +100,7 @@ TextureImporter:
       name: greenHouse4_0
       rect:
         serializedVersion: 2
-        x: 28
+        x: 27
         y: 114
         width: 99
         height: 80
@@ -121,7 +121,7 @@ TextureImporter:
       name: greenHouse4_1
       rect:
         serializedVersion: 2
-        x: 140
+        x: 139
         y: 114
         width: 99
         height: 80
@@ -142,7 +142,7 @@ TextureImporter:
       name: greenHouse4_2
       rect:
         serializedVersion: 2
-        x: 253
+        x: 251
         y: 114
         width: 99
         height: 80
@@ -163,8 +163,8 @@ TextureImporter:
       name: greenHouse4_3
       rect:
         serializedVersion: 2
-        x: 364
-        y: 115
+        x: 363
+        y: 114
         width: 99
         height: 80
       alignment: 0
@@ -184,7 +184,7 @@ TextureImporter:
       name: greenHouse4_4
       rect:
         serializedVersion: 2
-        x: 28
+        x: 27
         y: 18
         width: 99
         height: 80
@@ -226,7 +226,7 @@ TextureImporter:
       name: greenHouse4_6
       rect:
         serializedVersion: 2
-        x: 253
+        x: 251
         y: 18
         width: 99
         height: 80
@@ -247,7 +247,7 @@ TextureImporter:
       name: greenHouse4_7
       rect:
         serializedVersion: 2
-        x: 364
+        x: 363
         y: 18
         width: 99
         height: 80
